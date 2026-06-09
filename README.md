@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Shahnawaz 👋
 
-<!--
-**TheRayRock/TheRayRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer @ RodBez
 
-Here are some ideas to get you started:
+Building web applications using TypeScript, Next.js and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- TypeScript
+- JavaScript
+- Next.js
+- React
+- Java
+- Python
+- Docker
+- Kubernetes
+- AWS
+
+## Currently Learning
+
+- MLOps
+- DevOps
+- System Design
+- DSA
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRayRock&show_icons=true)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRayRock&layout=compact)
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TheRayRock)
+
+## Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRayRock)
+
+## Connect With Me
+
+[- LinkedIn: Add Your LinkedIn Link](https://www.linkedin.com/in/md-shahnawaz-alam-1463981b7/?skipRedirect=true)
+[- Portfolio: Add Your Portfolio Link](https://portfolio-omega-coral-fd5rf0ip1k.vercel.app/)
