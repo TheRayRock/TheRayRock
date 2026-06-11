@@ -1,89 +1,143 @@
-<h1 align="center">Hi, I'm Md Shahnawaz Alam</h1>
+<div align="center">
 
+# Hi, I'm Md Shahnawaz Alam 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+AI%2FML+Enthusiast;☁️+DevOps+Learner;🚀+MLOps+Explorer;💻+Full+Stack+Developer;🔥+Software+Engineer+%40+RodBez" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&lines=AI%2FML+Enthusiast;DevOps+Learner;MLOps+Explorer;Full+Stack+Developer;Software+Engineer+%40+RodBez)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Software Engineer @ RodBez** from 🇮🇳 India, specializing in **Full Stack Development, AI/ML, Cloud Technologies, DevOps, and MLOps**.
+
+Currently working on modern web applications using **TypeScript, Next.js, and Docker** while continuously expanding my expertise in cloud-native technologies and software engineering best practices.
+
+* 🔭 Currently working on **full-stack web applications** using Next.js and TypeScript
+* 🤖 Interested in **Artificial Intelligence, Machine Learning, LangChain and LLM Applications**
+* ☁️ Hands-on knowledge of **AWS, Docker and Kubernetes**
+* 🌱 Currently learning **MLOps, DevOps, System Design and Advanced DSA**
+* 👯 Looking to collaborate on **Open Source, AI and Software Engineering projects**
+* 💬 Ask me about **Java, Python, TypeScript, Next.js, Docker and AWS**
+* ⚡ Fun fact: I enjoy learning new technologies and building real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-# 🚀 About Me
+### Cloud & DevOps
 
-I'm a Software Engineer at RodBez, working on modern web applications using TypeScript, Next.js, and Docker.
-
-I'm passionate about Software Engineering, Cloud Technologies, AI/ML, and building scalable applications. I enjoy learning new technologies and solving real-world problems through software.
-
-- 💼 Currently working as a Software Engineer at RodBez
-- 🚀 Building full-stack applications using TypeScript and Next.js
-- ☁️ Hands-on knowledge of AWS, Docker and Kubernetes
-- 🤖 Interested in AI, Machine Learning and LLM Applications
-- 📚 Currently learning MLOps, DevOps, System Design and Advanced DSA
-- 🤝 Open to collaborating on Open Source and Software Engineering projects
-- 💬 Ask me about Java, Python, TypeScript, Next.js and Docker
-- 🎯 Passionate about building scalable software and AI-powered applications
-
-## 🚀 Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
-## ☁️ Cloud & DevOps
+### Databases & Monitoring
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab," />
-</p> 
-
-## 🗄️ Databases & Monitoring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
-</p>
+### AI & Machine Learning
 
-## 🤖 AI & Machine Learning
+* Machine Learning
+* Deep Learning
+* LangChain
+* OpenAI APIs
+* LLM Applications
+* NLP Fundamentals
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+---
 
-- Machine Learning
-- Deep Learning
-- LangChain
-- OpenAI APIs
-- LLM Applications
+## 📌 Featured Projects
 
-## Currently Learning
+* 🤖 AI Call Assistant
+* 🚀 CI/CD Pipeline Setup
+* 🐳 Docker Setup
+* 🎓 Classroom Management System
+* 🌐 Personal Portfolio
+* 🧠 LangChain Projects
 
-- DevOps
-- MLOps
-- System Design
-- DSA
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheRayRock&show_icons=true&theme=tokyonight" />
+<div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRayRock&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=TheRayRock&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRayRock&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRayRock&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRayRock&theme=tokyonight&hide_border=true" width="450">
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheRayRock&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
+
+</div>
+
+---
 
 ## 📈 Activity Graph
 
-[![Shahnawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRayRock&theme=tokyo-night)](https://github.com/TheRayRock)
+<div align="center">
 
-## Connect With Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRayRock&theme=tokyo-night&hide_border=true">
 
-<p align="left">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/md-shahnawaz-alam-1463981b7">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</p>
-[- Portfolio: Add Your Portfolio Link](https://portfolio-omega-coral-fd5rf0ip1k.vercel.app/)
+
+<a href="https://portfolio-omega-coral-fd5rf0ip1k.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building software that solves real-world problems."
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheRayRock\&color=brightgreen\&style=flat-square)
+
+</div>
