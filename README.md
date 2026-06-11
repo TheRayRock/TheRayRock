@@ -2,7 +2,7 @@
 
 # Hi, I'm Md Shahnawaz Alam 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&lines=AI%2FML+Enthusiast;DevOps+Learner;MLOps+Explorer;Full+Stack+Developer;Software+Engineer+%40+RodBez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=2E9EF7\&center=true\&vCenter=true\&width=600\&lines=Software+Engineer+%40+RodBez;AI%2FML+Enthusiast;DevOps+Learner;MLOps+Explorer;Full+Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -45,8 +45,8 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+  <!-- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/> -->
+  <!-- <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
@@ -93,16 +93,6 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRayRock&theme=tokyonight&hide_border=true" width="450">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheRayRock&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4">
 
 </div>
 
