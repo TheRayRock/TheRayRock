@@ -24,8 +24,6 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 🚀 Languages & Frameworks
 
 <p align="left">
