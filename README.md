@@ -55,13 +55,7 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 
 ---
 
----
-
 ## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform" />
-</p>
 
 - 🚀 DevOps Engineering
 - ☁️ Cloud Computing (AWS)
