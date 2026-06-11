@@ -4,10 +4,29 @@ Backend Developer @ RodBez
 
 Building web applications using TypeScript, Next.js and Docker.
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 🚀 Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs" />
+</p>
+
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+</p>
+
+## 🗄️ Databases & Monitoring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
+</p>
 
 ## Currently Learning
 
