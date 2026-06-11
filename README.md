@@ -4,17 +4,10 @@ Backend Developer @ RodBez
 
 Building web applications using TypeScript, Next.js and Docker.
 
-## Tech Stack
-
-- TypeScript
-- JavaScript
-- Next.js
-- React
-- Java
-- Python
-- Docker
-- Kubernetes
-- AWS
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Currently Learning
 
