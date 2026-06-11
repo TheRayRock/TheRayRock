@@ -1,8 +1,24 @@
-# Hi, I'm Shahnawaz 👋
+<h1 align="center">Hi, I'm Md Shahnawaz Alam</h1>
 
-Backend Developer @ RodBez
 
-Building web applications using TypeScript, Next.js and Docker.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+AI%2FML+Enthusiast;☁️+DevOps+Learner;🚀+MLOps+Explorer;💻+Full+Stack+Developer;🔥+Software+Engineer+%40+RodBez" />
+</p>
+
+# 🚀 About Me
+
+I'm a Software Engineer at RodBez, working on modern web applications using TypeScript, Next.js, and Docker.
+
+I'm passionate about Software Engineering, Cloud Technologies, AI/ML, and building scalable applications. I enjoy learning new technologies and solving real-world problems through software.
+
+- 💼 Currently working as a Software Engineer at RodBez
+- 🚀 Building full-stack applications using TypeScript and Next.js
+- ☁️ Hands-on knowledge of AWS, Docker and Kubernetes
+- 🤖 Interested in AI, Machine Learning and LLM Applications
+- 📚 Currently learning MLOps, DevOps, System Design and Advanced DSA
+- 🤝 Open to collaborating on Open Source and Software Engineering projects
+- 💬 Ask me about Java, Python, TypeScript, Next.js and Docker
+- 🎯 Passionate about building scalable software and AI-powered applications
 
 ## 🚀 Languages & Frameworks
 
@@ -13,8 +29,8 @@ Building web applications using TypeScript, Next.js and Docker.
 ## ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
-</p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab," />
+</p> 
 
 ## 🗄️ Databases & Monitoring
 
@@ -28,30 +44,46 @@ Building web applications using TypeScript, Next.js and Docker.
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
 </p>
 
+## 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Machine Learning
+- Deep Learning
+- LangChain
+- OpenAI APIs
+- LLM Applications
+
 ## Currently Learning
 
-- MLOps
 - DevOps
+- MLOps
 - System Design
 - DSA
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheRayRock&show_icons=true)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheRayRock&show_icons=true&theme=tokyonight" />
 
-## Most Used Languages
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRayRock&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRayRock&layout=compact)
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRayRock&theme=tokyonight" />
+</p>
 
-## Contribution Streak
+## 📈 Activity Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TheRayRock)
-
-## Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRayRock)
+[![Shahnawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheRayRock&theme=tokyo-night)](https://github.com/TheRayRock)
 
 ## Connect With Me
 
-[- LinkedIn: Add Your LinkedIn Link](https://www.linkedin.com/in/md-shahnawaz-alam-1463981b7/?skipRedirect=true)
+<p align="left">
+<a href="https://www.linkedin.com/in/md-shahnawaz-alam-1463981b7">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 [- Portfolio: Add Your Portfolio Link](https://portfolio-omega-coral-fd5rf0ip1k.vercel.app/)
