@@ -117,12 +117,3 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 "Building software that solves real-world problems."
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheRayRock\&color=brightgreen\&style=flat-square)
-
-</div>
