@@ -35,7 +35,7 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,jenkins,terraform" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github" />
 </p>
 
 ## 🗄️ Databases
@@ -52,6 +52,23 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 * OpenAI APIs
 * LLM Applications
 * NLP Fundamentals
+
+---
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,terraform" />
+</p>
+
+- 🚀 DevOps Engineering
+- ☁️ Cloud Computing (AWS)
+- 🤖 MLOps
+- 🏗️ System Design
+- 📊 Data Structures & Algorithms
+- 🔄 CI/CD & Infrastructure Automation
 
 ---
 
