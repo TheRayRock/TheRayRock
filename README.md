@@ -27,7 +27,7 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 ## 🚀 Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,tailwind" />
 </p>
 
 ## ☁️ Cloud & DevOps
