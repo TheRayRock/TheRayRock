@@ -33,7 +33,7 @@ Currently working on modern web applications using **TypeScript, Next.js, and Do
 ## ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,github" />
 </p>
 
 ## 🗄️ Databases
